@@ -1,0 +1,46 @@
+:root {
+  --hotnsexy: #57b576;
+  --notgreen: #faa0eb;
+}
+.name {
+  color: var(--hotnsexy);
+  font-size: 69pt;
+  font-style: italic;
+  font-weight: bold;
+
+}
+.text {
+  color: var(--notgreen);
+}
+
+.pageTitle {
+
+}
+
+.sectionTitle {
+
+}
+
+a {
+
+}
+a:link {
+
+}
+a:visited {
+
+}
+a:focus {
+
+}
+a:hover {
+
+}
+a:active {
+
+}
+
+#dog {
+  height: 10%;
+  width: 10%;
+}
